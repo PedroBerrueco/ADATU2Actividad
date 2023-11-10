@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empleados>
+    <empleado>
+        <nombre>Pedro</nombre>
+        <apellido>Berrueco</apellido>
+        <dni>00000001A</dni>
+        <departamento>Soporte</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Paco</nombre>
+        <apellido>Jones</apellido>
+        <dni>00000002B</dni>
+        <departamento>Negocio</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Rosa</nombre>
+        <apellido>Melano</apellido>
+        <dni>00000003C</dni>
+        <departamento>Desarrollo</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Elver</nombre>
+        <apellido>Galarga</apellido>
+        <dni>00000004D</dni>
+        <departamento>Sistemas</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Jonhy</nombre>
+        <apellido>Mentero</apellido>
+        <dni>00000005E</dni>
+        <departamento>RRHH</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Dolores</nombre>
+        <apellido>Fuertes</apellido>
+        <dni>00000006F</dni>
+        <departamento>Direccion</departamento>
+    </empleado>
+</empleados>
